@@ -1,0 +1,16 @@
+# bindPort = 7000
+
+# frps的通信端口
+bindPort = 5100
+# 与frpc通信的认证方式和token值
+auth.method = "token"
+auth.token = "12345dfFDFERDFDF678"
+
+# 面板的端口、账号和密码
+webServer.addr = "0.0.0.0" #注意该参数
+webServer.port = 5200
+webServer.user = "mfc_test"
+webServer.password = "xxxxxxxxfdsafdae"
+
+
+
